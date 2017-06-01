@@ -1,0 +1,9 @@
+NRRD0001
+content: recorte
+dimension: 3
+type: short
+sizes: 512 512 43
+spacings: 1 1 6
+endian: little
+data file: ./recorte_02.raw
+encoding: raw
